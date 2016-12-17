@@ -125,3 +125,5 @@ Now it’s complaining about not knowing how to render the date.  Let’s fix th
     </html>
 
 Now we know the basics of creating a Controller, assign a method to a path and providing data to our templates.
+
+Next: [Web Application Layouts with Freemarker, WebJars & Bootstrap](https://github.com/spilth/annotated-spring-episode-003)
